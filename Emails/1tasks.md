@@ -1,4 +1,4 @@
-Students,
+Students:
 
 To help you develop better insight into applied probability, this course will feature (optional) Python programming challenges. The main site for the class is a Git repository hosted on GitHub:
 
@@ -15,3 +15,5 @@ We may devote part of the session on Tuesday, January 15, to troubleshooting iss
 Good Luck,
 
 Jean-Francois Chamberland
+
+Due Date: Jan 16, 2019
