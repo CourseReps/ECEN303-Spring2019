@@ -20,7 +20,7 @@ Undergraduate Students
 * Eric Carlosg
 * Nicholas Cereang
 * Sana Chaudharyg
-* Michael Collumg
+* Michael Collum, [mcollum29]
 * Ahmet Coskunerg
 * Ethan Curag
 * Jinyu Daig
