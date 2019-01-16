@@ -27,7 +27,7 @@ Undergraduate Students
 * Justin Denizg
 * Maria Dmitrievskaiag
 * Parker Drakeg
-* Seyedeh Nahid Esmatig
+* Seyedeh Nahid Esmati, [nahidgithubaccount](https://github.com/nahidgithubaccount)
 * Leandro Falcong
 * Charles Ferreeg
 * Jeffrey Fisherg
