@@ -62,7 +62,7 @@ Undergraduate Students
 * Matthew Murrillg
 * Wesley Myersg
 * Nicholas O'Tooleg
-* Jung Bin Parkg [E2BQ33Vdoz] (https://github.com/E2BQ33Vdoz)
+* Jung Bin Parkg [E2BQ33Vdoz](https://github.com/E2BQ33Vdoz)
 * Seth Petroskyg
 * Darielys Prado Hernandezg
 * Jay Ramirezg
