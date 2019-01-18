@@ -1,5 +1,5 @@
 # Identity
 
-* Name: <Jeffrey Fisher II>
-* GitHubID: <jeffreyspaceboy>
-* NetID: <726002450>
+* Name: Jeffrey Fisher II
+* GitHubID: jeffreyspaceboy
+* NetID: 726002450
