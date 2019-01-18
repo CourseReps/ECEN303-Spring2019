@@ -47,7 +47,7 @@ Undergraduate Students
 * Mark Johnsong
 * Evan Kittrellg
 * Michael Kroescheg
-* Atharva Kulkarnig
+* Atharva Kulkarni, [athkul98](https://github.com/athkul98)
 * Zachary Kunkelg
 * Luke Ledbetterg
 * Wan-Yu Liaog
