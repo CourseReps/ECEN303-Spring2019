@@ -11,7 +11,7 @@ Undergraduate Students
 * Aubrey Ashtong
 * Antonio Avilesg
 * Marcia Benavidesg
-* Katherine Bernhardtg
+* Katherine Bernhardt, [katherinebernhardt](https://github.com/katherinebernhardt)
 * Matthew Boucherg
 * Luciano Brignoneg
 * Connor Burkeg
