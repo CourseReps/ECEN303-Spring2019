@@ -58,7 +58,7 @@ Undergraduate Students
 * Grant Maysg
 * Edgar Medranog
 * Wesley Millerg
-* Javier Mirabalg [javierisma98](https://github.com/javierisma98)
+* Javier Mirabalg, [javierisma98](https://github.com/javierisma98)
 * Matthew Murrillg
 * Wesley Myersg
 * Nicholas O'Tooleg
