@@ -30,7 +30,7 @@ Undergraduate Students
 * Seyedeh Nahid Esmati, [nahidgithubaccount](https://github.com/nahidgithubaccount)
 * Leandro Falcong
 * Charles Ferreeg
-* Jeffrey Fisherg
+* Jeffrey Fisher,[jeffreyspaceboy](https://github.com/jeffreyspaceboy)
 * Vanessa Galvang
 * Rolando Garciag
 * Jordan Gellasch Francisg
