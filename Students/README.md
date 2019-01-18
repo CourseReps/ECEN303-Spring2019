@@ -75,7 +75,7 @@ Undergraduate Students
 * Yunze Sung
 * Aiswarya Sureshg
 * Jordan Terrazasg
-* Daniel Vorobievg [DanielVorobiev] (https://github.com/DanielVorobiev)
+* Daniel Vorobievg [DanielVorobiev](https://github.com/DanielVorobiev)
 * Charles Warreng
 * Brett Wilsong
 * Mohammad Zamang
