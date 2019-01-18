@@ -1,4 +1,4 @@
 # Identity
 
-* Name: <Katherine Bernhardt>
-* GitHubID: <katherinebernhardt>
+* Name: Katherine Bernhardt
+* GitHubID: katherinebernhardt
