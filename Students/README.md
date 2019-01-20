@@ -69,7 +69,7 @@ Undergraduate Students
 * Jacob Reznikg
 * Joseph Shanderag
 * Miguel Silvag
-* David Smithg
+* David Smithg <David Smith>, [davidsmith6](https://github.com/davidsmith6)
 * Clark Sniderg
 * Aaron Solterog
 * Yunze Sung
