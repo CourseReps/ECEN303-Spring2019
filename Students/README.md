@@ -39,7 +39,7 @@ Undergraduate Students
 * Joshua Haleg
 * Joshua Haliburtong
 * John Hendersong
-* Joseph Hinzg
+* Joseph Hinzg, [joehinz](https://github.com/joehinz)
 * Andy Hog
 * Collin Hodgesg
 * Nishat Hossaing
