@@ -61,7 +61,7 @@ Undergraduate Students
 * Javier Mirabalg, [javierisma98](https://github.com/javierisma98)
 * Matthew Murrillg
 * Wesley Myersg
-* Nicholas O'Tooleg
+* Nicholas O'Tooleg, [yellowbox123](https://github.com/yellowbox123)
 * Jung Bin Parkg [E2BQ33Vdoz](https://github.com/E2BQ33Vdoz)
 * Seth Petroskyg
 * Darielys Prado Hernandezg
