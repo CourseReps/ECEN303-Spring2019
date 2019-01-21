@@ -53,7 +53,7 @@ Undergraduate Students
 * Wan-Yu Liaog
 * Brenda Loberag
 * Sebastian Lombanag
-* Abigail Lozanog
+* Abigail Lozanog, [abigaillozano](https://github.com/abigaillozano)
 * Mauricio Martinezg
 * Grant Maysg
 * Edgar Medranog
