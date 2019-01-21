@@ -42,7 +42,7 @@ Undergraduate Students
 * Joseph Hinzg, [joehinz](https://github.com/joehinz)
 * Andy Hog
 * Collin Hodgesg
-* Nishat Hossaing
+* Nishat Hossaing, [nishat722](https://github.com/nishat722)
 * Samuel Hug
 * Mark Johnsong
 * Evan Kittrellg
