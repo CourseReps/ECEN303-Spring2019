@@ -55,7 +55,7 @@ Undergraduate Students
 * Sebastian Lombanag
 * Abigail Lozanog, [abigaillozano](https://github.com/abigaillozano)
 * Mauricio Martinezg
-* Grant Maysg
+* Grant Mays, [grantwilliammays](https://github.com/grantwilliammays)
 * Edgar Medranog
 * Wesley Millerg
 * Javier Mirabalg, [javierisma98](https://github.com/javierisma98)
