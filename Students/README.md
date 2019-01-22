@@ -13,7 +13,7 @@ Undergraduate Students
 * Marcia Benavidesg
 * Katherine Bernhardt, [katherinebernhardt](https://github.com/katherinebernhardt)
 * Matthew Boucherg
-* Luciano Brignoneg
+* Luciano Brignone, [lucianobrig](https://github.com/lucianobrig)
 * Connor Burkeg
 * Eric Candelariag
 * Alan Cantug
