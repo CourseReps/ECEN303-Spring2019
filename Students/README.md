@@ -31,7 +31,7 @@ Undergraduate Students
 * Leandro Falcong
 * Charles Ferreeg
 * Jeffrey Fisher,[jeffreyspaceboy](https://github.com/jeffreyspaceboy)
-* Vanessa Galvang
+* Vanessa Galvang,[vanessagalvan](https://github.com/vanessagalvan)
 * Rolando Garciag
 * Jordan Gellasch Francisg
 * Ethan Grayg
