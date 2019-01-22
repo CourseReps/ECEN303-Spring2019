@@ -78,7 +78,7 @@ Undergraduate Students
 * Jordan Terrazasg
 * Daniel Vorobievg [DanielVorobiev](https://github.com/DanielVorobiev)
 * Charles Warreng
-* Brett Wilsong
+* Brett Wilson, [BrettMWilson](https://github.com/BrettMWilson)
 * Mohammad Zamang
 * Daniel Zamarron
 
