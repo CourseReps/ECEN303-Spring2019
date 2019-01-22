@@ -32,10 +32,10 @@ Undergraduate Students
 * Charles Ferreeg
 * Jeffrey Fisher,[jeffreyspaceboy](https://github.com/jeffreyspaceboy)
 * Vanessa Galvang,[vanessagalvan](https://github.com/vanessagalvan)
-* Rolando Garciag
+* Rolando Garciag, [mrjr13](https://github.com/mrjr13)
 * Jordan Gellasch Francisg
 * Ethan Grayg
-* Zachary Griffing
+* Zachary Griffin, [zaxhattack](https://github.com/zaxhattack)
 * Joshua Haleg
 * Joshua Haliburtong
 * John Hendersong
@@ -63,7 +63,7 @@ Undergraduate Students
 * Wesley Myersg
 * Nicholas O'Tooleg, [yellowbox123](https://github.com/yellowbox123)
 * Jung Bin Parkg [E2BQ33Vdoz](https://github.com/E2BQ33Vdoz)
-* Seth Petroskyg
+* Seth Petrosky [spetro1277](https://github.com/spetro1277)
 * Darielys Prado Hernandezg
 * Jay Ramirezg
 * Jacob Reznikg
@@ -73,6 +73,7 @@ Undergraduate Students
 * Clark Sniderg
 * Aaron Solterog
 * Yunze Sung
+* Juan Mendoza [juanrmendoza98](https://github.com/juanrmendoza98)
 * Aiswarya Sureshg
 * Jordan Terrazasg
 * Daniel Vorobievg [DanielVorobiev](https://github.com/DanielVorobiev)
