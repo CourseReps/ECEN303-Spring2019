@@ -15,7 +15,7 @@ Undergraduate Students
 * Matthew Boucherg
 * Luciano Brignone, [lucianobrig](https://github.com/lucianobrig)
 * Connor Burkeg
-* Eric Candelariag
+* Eric Candelaria, [ericcandelaria](https://github.com/ericcandelaria)
 * Alan Cantug
 * Eric Carlosg
 * Nicholas Cereang
