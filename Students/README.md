@@ -35,7 +35,7 @@ Undergraduate Students
 * Rolando Garciag, [mrjr13](https://github.com/mrjr13)
 * Jordan Gellasch Francisg
 * Ethan Grayg
-* Zachary Griffing
+* Zachary Griffin, [zaxhattack](https://github.com/zaxhattack)
 * Joshua Haleg
 * Joshua Haliburtong
 * John Hendersong
