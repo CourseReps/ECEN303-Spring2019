@@ -11,9 +11,9 @@ Undergraduate Students
 * Aubrey Ashtong
 * Antonio Avilesg
 * Marcia Benavidesg
-* Katherine Bernhardtg
+* Katherine Bernhardt, [katherinebernhardt](https://github.com/katherinebernhardt)
 * Matthew Boucherg
-* Luciano Brignoneg
+* Luciano Brignone, [lucianobrig](https://github.com/lucianobrig)
 * Connor Burkeg
 * Eric Candelariag
 * Alan Cantug
@@ -26,42 +26,42 @@ Undergraduate Students
 * Jinyu Daig
 * Justin Denizg
 * Maria Dmitrievskaiag
-* Parker Drakeg
+* Parker Drake, [ParkerDrake](https://github.com/ParkerDrake)
 * Seyedeh Nahid Esmati, [nahidgithubaccount](https://github.com/nahidgithubaccount)
 * Leandro Falcong
 * Charles Ferreeg
-* Jeffrey Fisherg
-* Vanessa Galvang
-* Rolando Garciag
+* Jeffrey Fisher,[jeffreyspaceboy](https://github.com/jeffreyspaceboy)
+* Vanessa Galvang,[vanessagalvan](https://github.com/vanessagalvan)
+* Rolando Garciag, [mrjr13](https://github.com/mrjr13)
 * Jordan Gellasch Francisg
 * Ethan Grayg
 * Zachary Griffing
 * Joshua Haleg
 * Joshua Haliburtong
 * John Hendersong
-* Joseph Hinzg
+* Joseph Hinzg, [joehinz](https://github.com/joehinz)
 * Andy Hog
 * Collin Hodgesg
-* Nishat Hossaing
+* Nishat Hossaing, [nishat722](https://github.com/nishat722)
 * Samuel Hug
 * Mark Johnsong
 * Evan Kittrellg
 * Michael Kroescheg
-* Atharva Kulkarnig
+* Atharva Kulkarni, [athkul98](https://github.com/athkul98)
 * Zachary Kunkelg
 * Luke Ledbetterg
 * Wan-Yu Liaog
 * Brenda Loberag
 * Sebastian Lombanag
-* Abigail Lozanog
+* Abigail Lozanog, [abigaillozano](https://github.com/abigaillozano)
 * Mauricio Martinezg
-* Grant Maysg
+* Grant Mays, [grantwilliammays](https://github.com/grantwilliammays)
 * Edgar Medranog
 * Wesley Millerg
-* Javier Mirabalg
+* Javier Mirabalg, [javierisma98](https://github.com/javierisma98)
 * Matthew Murrillg
 * Wesley Myersg
-* Nicholas O'Tooleg
+* Nicholas O'Tooleg, [yellowbox123](https://github.com/yellowbox123)
 * Jung Bin Parkg [E2BQ33Vdoz](https://github.com/E2BQ33Vdoz)
 * Seth Petroskyg
 * Darielys Prado Hernandezg
@@ -69,13 +69,14 @@ Undergraduate Students
 * Jacob Reznikg
 * Joseph Shanderag
 * Miguel Silvag
-* David Smithg
+* David Smithg <David Smith>, [davidsmith6](https://github.com/davidsmith6)
 * Clark Sniderg
 * Aaron Solterog
 * Yunze Sung
+* Juan Mendoza [juanrmendoza98](https://github.com/juanrmendoza98)
 * Aiswarya Sureshg
 * Jordan Terrazasg
-* Daniel Vorobievg
+* Daniel Vorobievg [DanielVorobiev](https://github.com/DanielVorobiev)
 * Charles Warreng
 * Brett Wilsong
 * Mohammad Zamang
