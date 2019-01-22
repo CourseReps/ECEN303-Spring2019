@@ -1,5 +1,5 @@
 # Identity
 
-*Name <Vanessa Rangel Galvan>
-*GitHubID: <vanessagalvan>
-*NetID: <vanessa_galvan>
+* Name: <Full Name>
+* GitHubID: <GitHub ID>
+* NetID: <TAMU NetID>
