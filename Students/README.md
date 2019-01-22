@@ -73,7 +73,7 @@ Undergraduate Students
 * Clark Sniderg
 * Aaron Solterog
 * Yunze Sung
-* Juan Mendoza, juanrmendoza98
+* Juan Mendoza [juanrmendoza98](https://github.com/juanrmendoza98)
 * Aiswarya Sureshg
 * Jordan Terrazasg
 * Daniel Vorobievg [DanielVorobiev](https://github.com/DanielVorobiev)
