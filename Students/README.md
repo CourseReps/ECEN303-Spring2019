@@ -45,7 +45,7 @@ Undergraduate Students
 * Nishat Hossaing, [nishat722](https://github.com/nishat722)
 * Samuel Hug
 * Mark Johnsong
-* Evan Kittrellg
+* Evan Kittrellg [EvanKittrell](https://github.com/EvanKittrell)
 * Michael Kroescheg
 * Atharva Kulkarni, [athkul98](https://github.com/athkul98)
 * Zachary Kunkelg
