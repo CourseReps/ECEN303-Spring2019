@@ -13,9 +13,9 @@ Undergraduate Students
 * Marcia Benavidesg
 * Katherine Bernhardt, [katherinebernhardt](https://github.com/katherinebernhardt)
 * Matthew Boucherg
-* Luciano Brignoneg
+* Luciano Brignone, [lucianobrig](https://github.com/lucianobrig)
 * Connor Burkeg
-* Eric Candelariag
+* Eric Candelaria, [ericcandelaria](https://github.com/ericcandelaria)
 * Alan Cantug
 * Eric Carlosg
 * Nicholas Cereang
@@ -31,11 +31,11 @@ Undergraduate Students
 * Leandro Falcong
 * Charles Ferreeg
 * Jeffrey Fisher,[jeffreyspaceboy](https://github.com/jeffreyspaceboy)
-* Vanessa Galvang
-* Rolando Garciag
+* Vanessa Galvang,[vanessagalvan](https://github.com/vanessagalvan)
+* Rolando Garciag, [mrjr13](https://github.com/mrjr13)
 * Jordan Gellasch Francisg
 * Ethan Grayg
-* Zachary Griffing
+* Zachary Griffin, [zaxhattack](https://github.com/zaxhattack)
 * Joshua Haleg
 * Joshua Haliburtong
 * John Hendersong
@@ -45,7 +45,7 @@ Undergraduate Students
 * Nishat Hossaing, [nishat722](https://github.com/nishat722)
 * Samuel Hug
 * Mark Johnsong
-* Evan Kittrellg
+* Evan Kittrellg [EvanKittrell](https://github.com/EvanKittrell)
 * Michael Kroescheg
 * Atharva Kulkarni, [athkul98](https://github.com/athkul98)
 * Zachary Kunkelg
@@ -55,15 +55,15 @@ Undergraduate Students
 * Sebastian Lombanag
 * Abigail Lozanog, [abigaillozano](https://github.com/abigaillozano)
 * Mauricio Martinezg
-* Grant Maysg
+* Grant Mays, [grantwilliammays](https://github.com/grantwilliammays)
 * Edgar Medranog
 * Wesley Millerg
 * Javier Mirabalg, [javierisma98](https://github.com/javierisma98)
 * Matthew Murrillg
 * Wesley Myersg
-* Nicholas O'Tooleg
+* Nicholas O'Tooleg, [yellowbox123](https://github.com/yellowbox123)
 * Jung Bin Parkg [E2BQ33Vdoz](https://github.com/E2BQ33Vdoz)
-* Seth Petroskyg
+* Seth Petrosky [spetro1277](https://github.com/spetro1277)
 * Darielys Prado Hernandezg
 * Jay Ramirezg
 * Jacob Reznikg
@@ -73,11 +73,12 @@ Undergraduate Students
 * Clark Sniderg
 * Aaron Solterog
 * Yunze Sung
+* Juan Mendoza [juanrmendoza98](https://github.com/juanrmendoza98)
 * Aiswarya Sureshg
 * Jordan Terrazasg
 * Daniel Vorobievg [DanielVorobiev](https://github.com/DanielVorobiev)
 * Charles Warreng
-* Brett Wilsong
+* Brett Wilson, [BrettMWilson](https://github.com/BrettMWilson)
 * Mohammad Zamang
 * Daniel Zamarron
 
