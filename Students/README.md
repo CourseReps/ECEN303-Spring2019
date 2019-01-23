@@ -19,7 +19,7 @@ Undergraduate Students
 * Alan Cantug
 * Eric Carlosg
 * Nicholas Cereang
-* Sana Chaudharyg
+* Sana Chaudhary, [sanaac](https://github.com/sanaac)
 * Michael Collum, [mcollum29]
 * Ahmet Coskunerg
 * Ethan Curag
