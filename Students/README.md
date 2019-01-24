@@ -21,7 +21,7 @@ Undergraduate Students
 * Nicholas Cereang
 * Sana Chaudhary, [sanaac](https://github.com/sanaac)
 * Michael Collum, [mcollum29]
-* Ahmet Coskunerg
+* Ahmet Coskuner, [acoskuner500](https://github.com/acoskuner500)
 * Ethan Curag
 * Jinyu Daig
 * Justin Denizg
