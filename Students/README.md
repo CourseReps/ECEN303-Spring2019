@@ -75,7 +75,7 @@ Undergraduate Students
 * Yunze Sung
 * Juan Mendoza [juanrmendoza98](https://github.com/juanrmendoza98)
 * Aiswarya Sureshg
-* Jordan Terrazasg
+* Jordan Terrazas [jklepser](https://github.com/jklepser)
 * Daniel Vorobievg [DanielVorobiev](https://github.com/DanielVorobiev)
 * Charles Warreng
 * Brett Wilson, [BrettMWilson](https://github.com/BrettMWilson)
