@@ -62,7 +62,7 @@ Undergraduate Students
 * Matthew Murrillg
 * Wesley Myersg
 * Nicholas O'Tooleg, [yellowbox123](https://github.com/yellowbox123)
-* Jung Bin Parkg [E2BQ33Vdoz](https://github.com/E2BQ33Vdoz)
+* Jung Bin Parkg [qspark](https://github.com/qspark)
 * Seth Petrosky [spetro1277](https://github.com/spetro1277)
 * Darielys Prado Hernandezg
 * Jay Ramirezg
