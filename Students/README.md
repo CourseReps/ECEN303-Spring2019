@@ -63,8 +63,8 @@ Undergraduate Students
 * Wesley Myersg
 * Nicholas O'Tooleg, [yellowbox123](https://github.com/yellowbox123)
 * Jung Bin Parkg [qspark](https://github.com/qspark)
-* Seth Petrosky [spetro1277](https://github.com/spetro1277)
-* Darielys Prado Hernandezg, [daryprado] (https://github.com/daryprado)
+* Seth Petrosky [spetro1277](https://github.com/spetro1277) 
+* Darielys Prado Hernandezg
 * Jay Ramirezg
 * Jacob Reznikg
 * Joseph Shanderag
