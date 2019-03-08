@@ -80,7 +80,7 @@ Undergraduate Students
 * Charles Warreng
 * Brett Wilson, [BrettMWilson](https://github.com/BrettMWilson)
 * Mohammad Zamang
-* Daniel Zamarron, [Ddanielzamarron](https://github.com/danielzamarron)
+* Daniel Zamarron, [danielzamarron](https://github.com/danielzamarron)
 * Dolapo Awe [dawe101](https://github.com/dawe101)
   
 
