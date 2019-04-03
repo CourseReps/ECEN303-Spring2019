@@ -6,7 +6,7 @@ Undergraduate Students
 ----------------------
 
 * Yousef Abu Khalifag
-* Alexandra Acunag
+* Alexandra Acunag, [alex33acuna](https://github.com/alex33acuna)
 * Jayce Alveng
 * Aubrey Ashtong
 * Antonio Avilesg
