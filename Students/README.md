@@ -29,7 +29,7 @@ Undergraduate Students
 * Parker Drake, [ParkerDrake](https://github.com/ParkerDrake)
 * Seyedeh Nahid Esmati, [nahidgithubaccount](https://github.com/nahidgithubaccount)
 * Leandro Falcong
-* Charles Ferreeg
+* Charles Ferree, [ferreecharlie](https://github.com/ferreecharlie)
 * Jeffrey Fisher,[jeffreyspaceboy](https://github.com/jeffreyspaceboy)
 * Vanessa Galvang,[vanessagalvan](https://github.com/vanessagalvan) :)(this is a test)
 * Rolando Garciag, [mrjr13](https://github.com/mrjr13)
