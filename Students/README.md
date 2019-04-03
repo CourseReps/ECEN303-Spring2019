@@ -6,11 +6,11 @@ Undergraduate Students
 ----------------------
 
 * Yousef Abu Khalifag
-* Alexandra Acunag
+* Alexandra Acunag, [alex33acuna](https://github.com/alex33acuna)
 * Jayce Alveng
 * Aubrey Ashtong
 * Antonio Avilesg
-* Marcia Benavidesg
+* Marcia Benavidesg , [marcia-benavides](https://github.com/marcia-benavides)
 * Katherine Bernhardt, [katherinebernhardt](https://github.com/katherinebernhardt)
 * Matthew Boucherg
 * Luciano Brignone, [lucianobrig](https://github.com/lucianobrig)
