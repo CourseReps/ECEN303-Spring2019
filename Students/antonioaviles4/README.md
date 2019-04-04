@@ -1,5 +1,5 @@
 # Identity
 
-* Name: <Full Name>
-* GitHubID: <GitHub ID>
-* NetID: <TAMU NetID>
+* Name: <Antonio Aviles>
+* GitHubID: <antonioaviles4>
+* NetID: <antonioaviles4>
