@@ -9,7 +9,7 @@ Undergraduate Students
 * Alexandra Acunag, [alex33acuna](https://github.com/alex33acuna)
 * Jayce Alveng
 * Aubrey Ashtong
-* Antonio Avilesg
+* Antonio Avilesg, [antonioaviles4](https://github.com/antonioaviles4)
 * Marcia Benavidesg , [marcia-benavides](https://github.com/marcia-benavides)
 * Katherine Bernhardt, [katherinebernhardt](https://github.com/katherinebernhardt)
 * Matthew Boucherg
