@@ -29,7 +29,7 @@ distributions1 = np.empty((0,2))
 print(distributions1.shape)
 
 for x in range(red+blue+1):
-    empirical_dist = distributions_sim1(x+1)
+    empirical_dist = distributions_sim1[x+1]
     distributions1 = empirical_dist + distributions1
 print(distributions1.shape)
 
