@@ -1,0 +1,37 @@
+def marble_pick_up(x=3):
+    red = 4;
+    blue = 6;
+    out = np.zeros(x,int)
+    for i in range(x):
+        if (bernoulli.rvs(blue/(red+blue)) == 1):
+            blue = blue - 1
+			out[i] = 0
+        else:
+            red = red - 1
+			out[i] = 1
+    return out
+y = marble_pick_up(10)
+print(y)
+
+
+import pandas as pd
+def distributions_sim1(x):
+    trial_num = 10000
+    empirical_dist = np.zeros(2)
+    for trial in range(0, trial_num):
+        empirical_dist[0] = x;
+		y = marble_pick_up(x)
+		y[empirical_distx-1] = y[empirical_distx-1] + 1
+    return empirical_dist
+
+# Create an empty horizontal vector
+distributions1 = np.empty((0,2))
+print(distributions1.shape)
+
+for x in range(red+blue+1):
+    empirical_dist = distributions_sim1[x+1]
+    distributions1 = empirical_dist + distributions1
+print(distributions1.shape)
+
+# Write output file
+pd.DataFrame(distributions1).to_csv("3challenge-1.csv")
